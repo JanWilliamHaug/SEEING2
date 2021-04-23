@@ -1,3 +1,6 @@
+//install the client library!
+//npm install @google-cloud/vision
+
 //const express = require('express');
 //const app = express();
 const vision = require('@google-cloud/vision');
